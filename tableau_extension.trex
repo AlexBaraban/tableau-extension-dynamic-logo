@@ -6,7 +6,7 @@
     <author name="Your Name" email="your.email@example.com" organization="Your Organization" website="https://www.your-website.com"/>
     <min-api-version>1.0</min-api-version>
     <source-location>
-      <url>http://localhost:4000/index.html</url>
+      <url>https://alexbaraban.github.io/tableau-extension-dynamic-logo/index.html</url>
     </source-location>
     <!-- Valid Base64 placeholder icon -->
     <icon>iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/wcAAwAB/IsSOCcAAAAASUVORK5CYII=</icon>
